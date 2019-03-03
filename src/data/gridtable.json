@@ -1,0 +1,2178 @@
+[
+  {
+    "date": "2019-04-26T00:00:00",
+    "rooms": [
+      {
+        "id": 4579,
+        "name": "Concourse",
+        "sessions": [
+          {
+            "id": "4479c66c-80c5-43e4-8894-244993483b1f",
+            "title": "Breakfast",
+            "description": null,
+            "startsAt": "2019-04-26T07:30:00",
+            "endsAt": "2019-04-26T08:30:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 4579,
+            "room": "Concourse"
+          },
+          {
+            "id": "005fdcf8-88ff-4f09-9ac2-48e58d6b1f8f",
+            "title": "Lunch",
+            "description": null,
+            "startsAt": "2019-04-26T12:00:00",
+            "endsAt": "2019-04-26T13:00:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 4579,
+            "room": "Concourse"
+          },
+          {
+            "id": "ca0d066c-d258-4238-a027-3fe3c2469067",
+            "title": "Movie Screening: Avengers: Endgame",
+            "description": "Various theaters starting at different times after the last session.",
+            "startsAt": "2019-04-26T16:30:00",
+            "endsAt": "2019-04-26T17:30:00",
+            "isServiceSession": true,
+            "isPlenumSession": false,
+            "speakers": [],
+            "categories": [],
+            "roomId": 4579,
+            "room": "Concourse"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4580,
+        "name": "Blue",
+        "sessions": [
+          {
+            "id": "85539",
+            "title": "Learn DevOps Or Die",
+            "description": "This presentation will introduce the audience to the practice of DevOps as well as explaining why DevOps is needed in today’s web scale environments. This presentation will also explain why current systems engineers/administrators should incorporate DevOps tools and methodologies into their current skillset and how it can help technology professionals excel in their career.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "73665d60-bb19-4cdd-919a-04bf4938d166",
+                "name": "Greg Greenlee"
+              }
+            ],
+            "categories": [],
+            "roomId": 4580,
+            "room": "Blue"
+          },
+          {
+            "id": "86026",
+            "title": "Accessibility: What is it, Why care about it, and How to add it",
+            "description": "We all know that we should \"make reasonable accommodations\" for those with disabilities in our work, but what could we not be considering? In this talk, Jack Merideth will walk you through how to approach your design and development work to account for all persons, whether they are blind, deaf, or neuro-divergent. \r\n\r\nAttendees will walk away with knowledge of what disabilities we can account for as designers and developers, some common pitfalls in design and development, and a few tricks to go above and beyond \"reasonable accommodation.\"",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "799b14db-fe81-4912-ba27-4fab3612181e",
+                "name": "John Merideth"
+              }
+            ],
+            "categories": [],
+            "roomId": 4580,
+            "room": "Blue"
+          },
+          {
+            "id": "84934",
+            "title": "Data Analytics with Google: Implementing Google Analytics with Google Tag Manager and Firebase",
+            "description": "Accurate data provides the opportunity to understand your users, empirically validate product development, provide personalized experiences, and make good business decisions for the future. A not so long time ago in an Ohio city not so far away, accurate user data was non existent.\r\n\r\nIn this session I will share what I learned implementing an analytics solution across four digital platforms—Android, iOS, Web, and Kiosk—using Google Analytics, Enhanced Ecommerce, Google Tag Manager, and Firebase. I will start with the why of analytics, presenting the business case, motivations, and hoped for ROI. Then I will highlight key pieces of Google’s analytics offerings as I share experiences from exploring and implementing Google Analytics.\r\n\r\nWhether you are deciding on which analytics solution to use on your current project or just interested in data, anyone looking to learn about Google’s analytics offerings will find value in this session.",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "45cd7b65-5c14-4dcc-8abb-5e6468e0be1e",
+                "name": "Adam Pasternack"
+              }
+            ],
+            "categories": [],
+            "roomId": 4580,
+            "room": "Blue"
+          },
+          {
+            "id": "85493",
+            "title": "Waterfall Requirements in an Agile World: Don't Throw the Baby Out with the Bathwater",
+            "description": "When the world went Agile, BAs everywhere were quick to abandon traditional requirements like \"the system must...\", \"the system shall...\", etc.  But there is still very much a place for waterfall requirements and the techniques used to elicit them in our modern world.  In this presentation, I'll talk through the value the BA brings to the table in any software development, with special emphasis on how waterfalls skills and techniques can benefit Agile.  At least three types of people can benefit:  those that used to be waterfall and wonder how to fit into an Agile world; those that wonder if their old waterfall experience can be leveraged at all; and those that don't know anything about waterfall and may want to learn some new techniques.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "46df2a45-b400-4d88-b6d9-dcd2f1f17e54",
+                "name": "Barbara Kerr"
+              }
+            ],
+            "categories": [],
+            "roomId": 4580,
+            "room": "Blue"
+          },
+          {
+            "id": "85067",
+            "title": "\"Did you get my message?\" - A comparison of several modern messaging platforms",
+            "description": "A programmer looking for a flexible messaging solution is faced with many questions and tradeoffs: What tool will offer the best performance? What will give the best flexibility and extensibility? Do I need a persistence layer or a cache?\r\n\r\nDepending on the specific application area and the structure of the data being transmitted, the requirements will be different: for example, an electronic options trading engine has different needs from a SaaS web application.\r\n\r\nThis talk will compare a variety of contemporary messaging solutions and the benefits and tradeoffs involved: \r\n\r\n- Kafka offers a persistent datastore and a clustering solution based on a \"pub-sub\" (publish-subscribe) architecture;\r\n- RabbitMQ is a message broker that implements the Advanced Message Queueing Protocol;\r\n- ZeroMQ implements a brokerless architecture that provides a socket-like abstraction to enable a variety of possible message distribution patterns.\r\n\r\nAnd finally: what do you gain and what do you lose from rolling your own simple messaging solution? Under what circumstances is the DIY approach the best one?\r\n\r\nThis talk offers a fast tour through a variety of messaging technologies and compares the pros and cons of each technology. Examples are shown in Python to favor simplicity and brevity of presentation over implementation details.",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "9f4ec925-ce10-412c-adb2-966f3efd7621",
+                "name": "Jack Bennett"
+              }
+            ],
+            "categories": [],
+            "roomId": 4580,
+            "room": "Blue"
+          },
+          {
+            "id": "85946",
+            "title": "How to Avoid the Dark Side (of UX)",
+            "description": "Turmoil has engulfed the modern web. The proliferation of dark UX betrays the directness of a user's goals and needs. Whether you call it dark user experience, deceptive design, conversion shaming or asshole design, some design patterns intend to trick, and sometimes force, the user into actions and behaviors with the sole intention of achieving business objectives. This often occurs at the detriment of the user and without consideration of their needs and goals. This presentation will discuss why these patterns exist, how to prevent them, and what to do if they, somehow, pass through the design phase. ",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "642466ae-f154-4d31-a367-277f82c665ba",
+                "name": "Mike Earley and Rachel Banks"
+              }
+            ],
+            "categories": [],
+            "roomId": 4580,
+            "room": "Blue"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4581,
+        "name": "Gauntlet",
+        "sessions": [
+          {
+            "id": "83205",
+            "title": "Intro to Hacking with the Raspberry Pi",
+            "description": "You've heard lots of hype about the Raspberry Pi, the credit-card sized computer available for under $40. This (updated) talk will introduce some of the Pi's features, explore some sample projects you can create, and show you how to write code to control hardware through it's IO pins. After this talk you will be ready to make your own cool hacking projects with the Pi.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "97e1c796-8bf6-468b-b246-0efc6979b9e7",
+                "name": "Sarah Withee"
+              }
+            ],
+            "categories": [],
+            "roomId": 4581,
+            "room": "Gauntlet"
+          },
+          {
+            "id": "83131",
+            "title": "Dude, Where's my Service!?!",
+            "description": "Are you tired of maintaining connection information in boring config files?  Ever wonder if there's an easier way?  Well there is and it's called Service Discovery.  In this session we will explore what is Service Discovery, the benefits, the problems it solves,  and we'll demonstrate an introductory Service Discovery setup with AWS Cloud Map.",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "c06d9d21-5dee-4abc-a461-b3a80d5ff1b8",
+                "name": "Josh Wood"
+              }
+            ],
+            "categories": [],
+            "roomId": 4581,
+            "room": "Gauntlet"
+          },
+          {
+            "id": "84467",
+            "title": "Running Containers in AWS - Learn about ECS, EKS, Fargate and Elastic Beanstalk",
+            "description": "Learn about the different options for running Docker containers in AWS, in particular ECS (Elastic Container Service), EKS (Elastic Container Service for Kubernetes), Fargate and Elastic Beanstalk.\r\nThe session will compare the different orchestration options for ease of use, integration with other AWS technologies, cost and portability.",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "5b65f17e-cf5a-4746-84d6-217e6445931e",
+                "name": "Andrew May"
+              }
+            ],
+            "categories": [],
+            "roomId": 4581,
+            "room": "Gauntlet"
+          },
+          {
+            "id": "83723",
+            "title": "CI/CD - More Than an Acronym, It's a culture shift",
+            "description": "With all the advancements in the tooling around CI and CD, implementing the technology has never been easier. Helping your team embrace the cultural change necessary to follow this cycle… that’s another story.\r\n\r\nIn this talk, you’ll learn the true meaning of CI/CD — that’s Continuous Integration and Continuous Deployment, if you don’t speak alphabet soup — and the various principles that drive it. To embrace these principles, you’ll need to change your team’s mindset, which can be a tough transition. I lead this transition in my organization, and I will walk you through the lessons I learned. After this talk, you will have a clear understanding of CI/CD as well as how to implement a true cultural shift in your team to take full advantage of this new, powerful methodology.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "01b15b1c-44e4-4121-b057-ae7eb9c83934",
+                "name": "James Quick"
+              }
+            ],
+            "categories": [],
+            "roomId": 4581,
+            "room": "Gauntlet"
+          },
+          {
+            "id": "86086",
+            "title": "Technical Story Telling – Communicating Complex Ideas Simply",
+            "description": "The more complicated the problem, the more critical it is to communicate it clearly so that all important players can collaborate effectively. Being able to communicate a technical topic is important and how you construct a story is crucial.  This talk is aimed at helping convey complex concepts through compelling narrative that enables technical leaders to build a groundswell of support for prudent ideas. I will walk though tactical specifics of breaking down a topic for a variety of audiences (executive, sales, developer, technical leader, customer, etc) and will provide real world examples of how I’ve done this over the years.",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "9d0eeec3-1879-4aff-87d6-6bbea4786f6c",
+                "name": "Ben Burgett"
+              }
+            ],
+            "categories": [],
+            "roomId": 4581,
+            "room": "Gauntlet"
+          },
+          {
+            "id": "82239",
+            "title": "5 Simple Steps To Simplifying Your Compliance Journey With A Service Mesh",
+            "description": "Building distributed systems is hard. Building distributed systems that are secure and compliant is even harder. A service mesh such as Istio can help solve engineering problems you’ll face when securing your services and complying with requirements found in GDPR, HIPAA, PCI-DSS and other standards and regulations. In this presentation, Granville will focus specifically on the security and compliance challenges that developers, operators and leaders face when building distributed systems in highly regulated industries; and show how to effectively leverage Istio to address them.",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "b3b55b4f-3d74-4ca0-921a-e723705df3aa",
+                "name": "Granville Schmidt"
+              }
+            ],
+            "categories": [],
+            "roomId": 4581,
+            "room": "Gauntlet"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4582,
+        "name": "Green",
+        "sessions": [
+          {
+            "id": "83639",
+            "title": "How to avoid UX-traps with a deck of cards",
+            "description": "In this session you will learn easy and comprehensible steps to catch the most common UI/UX problems, why they are a problem and how to fix them.\r\nThis no-fluff-easy-to-comprehend-system is perfect for developers and everyone else who wants to give their user the best experience possible.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "94f89e09-9831-495d-8f94-ac5fbc91e998",
+                "name": "Jessica Engström"
+              }
+            ],
+            "categories": [],
+            "roomId": 4582,
+            "room": "Green"
+          },
+          {
+            "id": "81729",
+            "title": "If Your Tests Could Talk",
+            "description": "Test Driven Development (TDD) has failed!  Tests are hard to write, run slowly, break easily, are hard to understand, take a long time to write and are a pain to modify!  If any of this sounds familiar, your tests are trying to tell you something.  But what are they trying to say?  Sometimes it's as simple as telling you when to extract a new abstraction or to decompose a function.   Other times the message can be less obvious, like telling you your code is too tightly coupled or that responsibilities have been assigned incorrectly.  Sometimes they can tell you it's time to back up and rethink your design.  Come explore these and other sources of trouble with test driving code.  If you have been burnt by TDD in the past, this may be the perfect opportunity to try it again armed with a clear set of guidelines to interpret the feedback from your tests.  Your tests are already talking… find out what they have to say!",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "402c1fb7-50cd-4784-bc1a-e713381a4e72",
+                "name": "James Balmert"
+              }
+            ],
+            "categories": [],
+            "roomId": 4582,
+            "room": "Green"
+          },
+          {
+            "id": "81898",
+            "title": "Accessibility as a Business Requirement",
+            "description": "As much as we hate to admit it, sometimes accessibility requirements are only fulfilled when a big client, an important stakeholder, or the government puts their foot down. I’ll walk through a specific example of difficult code getting an accessibility face lift. What happens when you don’t have tools or access to thoroughly test, but the deadline isn’t changing? What happens when your app is technically accessible, but you failed to test it adequately and accidentally break a core feature for an entire country… twice? Any level proficiency in HTML, CSS, and .NET/Razor.\r\n\r\nMy goal is to make accessibility tasks more relatable for the average developer. It's something we all know we \"should\" do, even when national laws require us to do so, but there's still a disconnect between coding a new feature and then making sure it's accessible. This talk addresses imperfect circumstances that force a developer to learn quickly and recover from mistakes, something we can all relate to. ",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "79ffb7a2-2c35-453b-8a95-405b1991a63c",
+                "name": "Stacy Harrison"
+              }
+            ],
+            "categories": [],
+            "roomId": 4582,
+            "room": "Green"
+          },
+          {
+            "id": "86096",
+            "title": "Say What? Get better client feedback with these 3 easy steps",
+            "description": "Surveys can appear to be an easy way to directly tap into your client’s needs and concerns. Without a development framework, however, they can produce unclear results due to bloat, poor design, tedium, or confusing questions. This talk will break down the development, validation, and choice modeling process for gaining actionable feedback from clients. Attendees will learn to incorporate composition, user experience, and even defend against trolls and cheaters when developing their next client feedback strategy.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "d1f5518f-7c56-4c41-ad23-8e0565b3ba2f",
+                "name": "Rebecca R. Carter"
+              }
+            ],
+            "categories": [],
+            "roomId": 4582,
+            "room": "Green"
+          },
+          {
+            "id": "84824",
+            "title": "Deep Learning like a Viking: Building Convolutional Neural Networks with Keras",
+            "description": "The Vikings came from the land of ice and snow, from the midnight sun, where the hot springs flow. In addition to longships and bad attitudes, they had a system of writing that we, in modern times, have dubbed the Younger Futhark (or ᚠᚢᚦᚬᚱᚴ if you're a Viking). These sigils are more commonly called runes and have been mimicked in fantasy literature and role-playing games for decades.\r\n\r\nOf course, having an alphabet, runic or otherwise, solves lots of problems. But, it also introduces others. The Vikings had the same problem we do today. How were they to get their automated software systems to recognize the hand-carved input of a typical boatman? Of course, they were never able to solve this problem and were instead forced into a life of burning and pillaging. Today, we have deep learning and neural networks and can, fortunately, avoid such a fate.\r\n\r\nIn this session, we are going to build a Convolution Neural Network to recognize hand-written runes from the Younger Futhark. We'll be using Keras to write easy to understand Python code that creates and trains the neural network to do this. We'll wire this up to a web application using Flask and some client-side JavaScript so you can write some runes yourself and see if it recognizes them.\r\n\r\nWhen we're done, you'll understand how Convolution Neural Networks work, how to build your own using Python and Keras, and how to make it a part of an application using Flask. Maybe you'll even try seeing what it thinks of the Bluetooth logo?",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "520bf4ca-b2d3-47c3-8475-c25bb2b257f7",
+                "name": "Guy Royse"
+              }
+            ],
+            "categories": [],
+            "roomId": 4582,
+            "room": "Green"
+          },
+          {
+            "id": "85909",
+            "title": "Event-driven Architecture, Micro-services and the Cloud",
+            "description": "Event-driven architectures are a versatile approach to designing and integrating complex software systems.  Event-driven architecture is not a new concept, but as more organizations evolve and are open to move more features to the cloud, this approach to system design has become appropriate in more situations and is worth a fresh look. \r\n\r\nIn this session we'll talk about orchestrating enterprise workflows in the cloud using Event-driven approaches, how to build new services to participate, and design patterns for integrating existing/legacy applications.\r\n\r\nWe'll also hit a few topics including:\r\n\t• Eventually consistent data and how to keep your data warehouse team happy\r\n\t• Command-Query Response Segregation\r\n\t• The Mediator design pattern\r\n\t• Event Sourcing",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "2bcc628d-f41b-47d5-a36e-d926beb570fa",
+                "name": "Shawn Wallace"
+              }
+            ],
+            "categories": [],
+            "roomId": 4582,
+            "room": "Green"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4583,
+        "name": "Orange",
+        "sessions": [
+          {
+            "id": "81760",
+            "title": "Azure Durable Functions for Serverless .NET Orchestration",
+            "description": "Durable Functions is a new open-source extension to Azure Functions that enable long running orchestrations and stateful processes to execute as serverless functions.  Learn how to write durable functions, and patterns and best practices to write simple or complex stateful orchestrations.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "76842364-2733-4aea-a940-7c81195e5120",
+                "name": "Chad Green"
+              }
+            ],
+            "categories": [],
+            "roomId": 4583,
+            "room": "Orange"
+          },
+          {
+            "id": "81946",
+            "title": "The Developer's Guide to Selling Your Work",
+            "description": "A few years ago, I had an idea to make the web better. It was going to be great, and I had the team to build it. Nine months of late nights and lost weekends later, we launched it! The problem: no one cared.\r\n\r\nA brilliant project isn't enough. I had to spread my vision, which was difficult for a developer like me. I learned quickly that even the best ideas needed to be sold. I had to build an audience, tell a story, and win over customers. Join me for a developer's guide to marketing. I'll share hard-fought lessons on page design, social networking, advertising, and analytics that will help you bring your ideas to the world.",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "5f017dbb-6821-480b-a750-82a0f15fa1b2",
+                "name": "Todd Gardner"
+              }
+            ],
+            "categories": [],
+            "roomId": 4583,
+            "room": "Orange"
+          },
+          {
+            "id": "82863",
+            "title": "Building mostly serverless distributed cloud systems step by step",
+            "description": "Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day.\r\nAlthough the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play.\r\nBasically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.\r\n\r\nAt the core of the system, we'll take a third-party system and pretend it's a legacy API, and then slowly build our distributed, scalable, geo-distributed and a tad cross-cloud system around it.\r\n\r\nContainers will be used for tasks that take time, and some places where we need an immediate response. Durable Functions will be orchestrating the whole logic. We shouldn't forget about Service Bus Queues/Topics, but we'll also need Event Grid to connect various parts of the system. In the end, there's \"nothing better\" than API Management to be at the front.\r\n",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "bfb38ebb-9307-4d7d-88fb-7fc3599a7c1c",
+                "name": "Ivan Čuljak"
+              }
+            ],
+            "categories": [],
+            "roomId": 4583,
+            "room": "Orange"
+          },
+          {
+            "id": "83345",
+            "title": "The Way of the Droid",
+            "description": "In a galaxy not so far away, lived a simple maker. After hundreds of hours of crafting, sanding and tinkering all while harnessing the “light side” of the droid, he finally did it. He placed the last part and tightened the final screw on his little friend. Upon seeing his creation come to life, he decided this power was too great for any one person to control. So he set out amongst the stars traveling from planet to planet visiting learning centers to teach other padawan’s the way of the droid. This talk will focus on this maker’s experiences with building the astrodroid BB8. It will touch on topics such as 3d printing, arduino programming, crafting, and robotics.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "db2cd162-6ad9-48d8-9cba-1a6799346abe",
+                "name": "Mike Goeke"
+              }
+            ],
+            "categories": [],
+            "roomId": 4583,
+            "room": "Orange"
+          },
+          {
+            "id": "82667",
+            "title": "ASP.NET Core: Ready for Primetime?",
+            "description": "Now that .NET Core has been with us for more than 2 years, and has seen several major revisions, is it time to consider it for your next enterprise project? Is it ready to do everything you need it to do? Are their any missing pieces or missing compatibility with third-party components?\r\n\r\nI'd like to answer all those questions, and most, all while giving you a deep view into the current state of .NET Core and ASP.NET Core. When you leave, you should know exactly when you can start to safely using ASP.NET Core for your new projects.",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
+                "name": "Jonathan \"J.\" Tower"
+              }
+            ],
+            "categories": [],
+            "roomId": 4583,
+            "room": "Orange"
+          },
+          {
+            "id": "85296",
+            "title": "Cypress: Where Automated Web UI Testing Isn’t Just for QA Anymore",
+            "description": "Today’s fast-moving software delivery environment emphasizes pushing value to production as quickly as possible. “Value to production” implicitly requires high quality—low quality is of little value to anyone! —which means teams need to focus on being able to specify, build, test, and deploy software effectively and quickly. Acceptance testing historically been manually intensive efforts run by a dedicated QA department, resulting in a slower pace of production releases.\r\n\r\nNo longer do we have to make acceptance a manual effort that requires a dedicated QA department.   With the release of Cypress, we have a new standard in front-end testing that allows every developer to create acceptance tests.  Come learn how you can create fast, easy, and reliable test for anything that runs in a browser regardless of the front-end framework used.\r\n\r\nYou will walk away ready to end the era of “Developers don’t write acceptance tests” and start writing acceptance tests for all of your projects. ",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "3e903f94-c2bf-4543-aa77-9990467f4573",
+                "name": "Justin James"
+              }
+            ],
+            "categories": [],
+            "roomId": 4583,
+            "room": "Orange"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4584,
+        "name": "Purple",
+        "sessions": [
+          {
+            "id": "82364",
+            "title": "Exploring How A Starter Kit Can Accelerate Your Project Development",
+            "description": "There are countless decisions to be made when starting a new project. Which tools, frameworks, and processes will give you the biggest head start? Reaching a team consensus about what to use and what not to use can be trying. Instead of going through this exercise for every new project, create a baseline! This session introduces one team’s approach to reaching consensus, the starter kit they created, and the ways the kit has improved their efficiency. Whether you’re on a consulting team frequently developing new greenfield projects or on an enterprise team working with microservices, you’ll see how to identify areas where your team can automate, abstract, and reuse.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "e4602813-02ac-43c2-b90c-d6e9b00b9b35",
+                "name": "Chris Bohatka"
+              }
+            ],
+            "categories": [],
+            "roomId": 4584,
+            "room": "Purple"
+          },
+          {
+            "id": "86078",
+            "title": "Top 5 Architecture Patterns",
+            "description": "The technology landscape continues to evolve at a blazing pace. To keep up with these changes, architecture patterns have evolved. This talk with cover 5 influential architecture patterns including:\r\n\r\n1. Layered\r\n2. Event-Driven\r\n3. Microkernel\r\n4. Microservices\r\n5. Space-Based\r\n\r\nBrush up on the oldies, learn about cutting-edge architectural patterns, when to use them and when to combine them.",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "0359504c-817a-470d-b72c-3e3eac9f2289",
+                "name": "Jim Everett"
+              }
+            ],
+            "categories": [],
+            "roomId": 4584,
+            "room": "Purple"
+          },
+          {
+            "id": "81910",
+            "title": "Hacking JWTs",
+            "description": "So you’ve finally implemented your own authorization server.  And it uses JWT because everyone else does.  But is it secure?  JWTs are the new great thing that everyone is talking about but you need to use them correctly.  During this talk, we will see how we can use various attacks to hack into OAuth systems that use JWTs as a token mechanism.  By seeing the attackers’ point of view, the attendees will learn how to better defend themselves and make more secure servers.",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "5a111e09-2922-4aff-a0eb-9b6691b6e8b2",
+                "name": "Joel Lord"
+              }
+            ],
+            "categories": [],
+            "roomId": 4584,
+            "room": "Purple"
+          },
+          {
+            "id": "82423",
+            "title": "AngularJS to Angular 7 Migration",
+            "description": "This talk will walk you through the process of migrating your AngularJS app to Angular 7. You'll learn about hybrid Angular apps, why they're need for migration and how to set them up. You'll be introduced the Angular CLI and see how to move your entire build process to this tool. We will also take a look at few examples of how to migrate components and services from AngularJS to Angular 7.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "66178d4c-95e1-4a9b-b752-62c1ed63ca0c",
+                "name": "Matt Weimer"
+              }
+            ],
+            "categories": [],
+            "roomId": 4584,
+            "room": "Purple"
+          },
+          {
+            "id": "82032",
+            "title": "Building a Mentoring Community Through Live Coding",
+            "description": "Since I began live coding in May of 2017, an amazing community of developers of all ages, locations, and skill levels has grown around the live streams. We share idea, teach and support each other while working on real projects together. I would like to share my experience and offer some advice on how to create a respectful online environment where everyone is encouraged to ask questions and contribute and negativity is nearly non-existent.",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "e97fad68-2b77-455b-a995-7f296abd4332",
+                "name": "Jesse Weigel"
+              }
+            ],
+            "categories": [],
+            "roomId": 4584,
+            "room": "Purple"
+          },
+          {
+            "id": "81779",
+            "title": "Notebooks are still cool...with Jupyter",
+            "description": "Whether you’re coding in Python, R or even JavaScript, Jupyter is a tool you should consider for your toolbelt.  Jupyter notebooks provide a platform for data scientists and engineers to rapidly prototype, experiment, and share their findings with each other.  Come and learn about how you and your team can leverage Jupyter notebooks, the recently released JupyterLab (Feb 2018), or the collaborative JupyterHub.  You’ll leave this session with a better understanding of what you can do with Jupyter notebooks as well as how to run Jupyter notebooks on your local system or your favorite cloud service.\r\n",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "7fb46913-1a7b-43e2-9579-e620883815ea",
+                "name": "Ryan Bales"
+              }
+            ],
+            "categories": [],
+            "roomId": 4584,
+            "room": "Purple"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4585,
+        "name": "Red",
+        "sessions": [
+          {
+            "id": "85936",
+            "title": "They don't make 'em like they used to: Integrating Junior Developers into your team",
+            "description": "Everybody has to start in the industry somewhere, even if they barely know what HTML is. Come learn tips and tricks to better integrate new members into your team from an \"experienced\" junior developer. We'll cover methodologies for assigning work, how to foster open and honest conversations, and how to teach technical topics. All from the perspective of a fresh entrant to Software Development.\r\n\r\nBy the end of the talk, you should feel comfortable in justifying on-boarding junior developers. You'll be able to identify ways to integrate them into your existing projects and how to best help them become productive members of your team. Because at the end of they day, both you and your junior developers are interested in shedding that \"junior\" line from their title as quickly as possible.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "0121492f-235c-4c2a-b558-8499bb907afe",
+                "name": "Robin Clower"
+              }
+            ],
+            "categories": [],
+            "roomId": 4585,
+            "room": "Red"
+          },
+          {
+            "id": "81740",
+            "title": "Electrify Your Web App",
+            "description": "Electrifying your Web app sounds out of this world doesn't it? Well, it is possible with a stable, subatomic framework called Electron. If you have ever built a Web app and thought to yourself, \"Self, this would be awesome if I could bring this experience to desktops around the world!\", now it is possible with Electron. Electron is a framework for creating native applications with front-end technologies that we all know and love. In this talk, I will introduce Electron, build a small application with front-end technologies including accessibility, and then deploy it to the desktop.",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
+                "name": "Chris DeMars"
+              }
+            ],
+            "categories": [],
+            "roomId": 4585,
+            "room": "Red"
+          },
+          {
+            "id": "85558",
+            "title": "Health: The Most Important Tech Tool",
+            "description": "Working in the tech industry often involves spending long hours sitting down, staring at a screen, consuming copious amounts of pizza and caffeine. The work is mentally demanding and can be stressful. In the rush to get everything done, it can be easy to neglect our health. But a healthy body and mind are necessary for effective performance. Based on HR training, research, and personal experience, this session provides realistic suggestions for managing your well-being at work. It covers the connection between physical and mental health, as well as how to discuss these topics with your employer. You’ll leave with a better idea of how to take care of yourself and be a happier, healthier, more productive person.",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c",
+                "name": "Cassandra Faris"
+              }
+            ],
+            "categories": [],
+            "roomId": 4585,
+            "room": "Red"
+          },
+          {
+            "id": "85781",
+            "title": "Taming scary production code that nobody wants to touch",
+            "description": "Most dev teams “own” some code that they don’t really want to work with.  However it got there, the code is scary but pretty stable but now requires updates.  Perhaps your team draws straws to each time to figure out who is going to have to put on the metaphorical hazmat suit and deal with the problem.  Or worse yet, your team relies on one developer to always do it and he or she is getting burned out and could leave at any minute.\r\n\r\nMike will share some techniques that will help you modify the code with confidence using a few core refactorings and characterization test.\r\n",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "895a51db-5074-4a89-8fb6-e2d97be4f322",
+                "name": "Mike Clement"
+              }
+            ],
+            "categories": [],
+            "roomId": 4585,
+            "room": "Red"
+          },
+          {
+            "id": "85979",
+            "title": "Of Crickets and Continuous Integration",
+            "description": "In this session, I will share a project I've been working in my spare time as well as the tooling I've utilized to maintain code quality. We'll begin by exploring the problem scope and resulting solution named Elise. \r\n\r\nAttendees will learn about Node.js CLI development with native modules on a Raspberry Pi along with tooling to assist in IoT-scale deployments. A major portion of this tooling will include GitLab and its Continuous Integration support, including setup of multiple runners.",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "f48cd89b-cc9f-4478-bc40-ba541ed1c5c3",
+                "name": "Zackary Lowery"
+              }
+            ],
+            "categories": [],
+            "roomId": 4585,
+            "room": "Red"
+          },
+          {
+            "id": "82110",
+            "title": "Building Accessible UI with React Native",
+            "description": "React Native is an innovative, cutting-edge technology that provides developers the \r\nability to build apps for both iOS and Android. But this causes double the concern for users of either platform who may be disabled. Accessibility is an important topic that needs to practiced and integrated as we build engaging RN apps. Creating code with Accessibility in mind will only further user engagement and ensure our apps are able to be used by everyone. Inn this talk, I'll break down how to write more compassionate code and build React Native components with empathy for users in mind",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "993340a7-9ed4-4ea3-8f7b-5ee1601d0a97",
+                "name": "Tae'lur Alexis"
+              }
+            ],
+            "categories": [],
+            "roomId": 4585,
+            "room": "Red"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4586,
+        "name": "Thanos",
+        "sessions": [
+          {
+            "id": "82824",
+            "title": "Everything You Always Wanted to Know About Distributed Architectures * But Were Afraid to Ask",
+            "description": "Distributed application architectures are complex. To a large extent, the past forty years of computer science has been dedicated to avoiding the problem, rather than addressing it head-on. The age of “internet of things” and “microservices”, however, has forced us into a world where we must not only acknowledge distributed architectures, but must embrace them. This session is aimed at equipping you with the knowledge necessary to understand and thrive in a truly distributed architecture. We’ll dive deep into the theory that drives modern distributed systems, and come out the other side prepared to build our own.",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "4b27e07a-b943-4364-9db8-9d9d564d60ab",
+                "name": "Michael Meadows"
+              }
+            ],
+            "categories": [],
+            "roomId": 4586,
+            "room": "Thanos"
+          },
+          {
+            "id": "84108",
+            "title": "Starting Over",
+            "description": "Adversity. A necessary component of life. Inevitably, we all reach professional and personal moments that require us to take a deep breath and a giant step back. Moving forward again often feels difficult, even impossible. We suffer, immobilized by fear.\r\n\r\nBut fear is more than some pesky roadblock. It is a rational response to adversity. Whether facing a major code refactoring, the changing technology landscape, a new role, or even a fresh career, we can learn to leverage fear and uncertainty to move beyond our hurdles and get the job done! Key life skills exist that can be developed to conquer adversity. Learn to assess risks, build relationships, and recognize opportunities for growth.\r\n\r\nStarting over may seem insurmountable. Armed with the right skills, perspective, and a little patience, nothing truly is.",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "b3761cce-aaeb-4ca4-a5b3-40f162f6bcf8",
+                "name": "Jeff Strauss"
+              }
+            ],
+            "categories": [],
+            "roomId": 4586,
+            "room": "Thanos"
+          },
+          {
+            "id": "83559",
+            "title": "Holo world - Create your first HoloLens app with Unity",
+            "description": "HoloLens breached a barrier, a barrier between the digital and the real world, bringing digital content into our world.\r\nOver the past year the HoloLens has continued to create new ways to visualize, to change education and the medical industry.\r\nHoloLens is not only for games it is a Business platform (that is game enabled)\r\nUsing Unity we can create an experience that lets you bring digital content and interact with the real world.\r\nDuring this session we will take a look at the HoloLens hardware, the possibilities, the limitations and tooling.\r\nWe will take a look at the basics of Unity and also create a HoloLens app from scratch complete with Gaze, Air Tap, Spatial mapping and Voice using Mixed Reality Toolkit.",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "887b6c2e-49a1-4fda-94cf-7ec421f61c3c",
+                "name": "Jimmy Engström"
+              }
+            ],
+            "categories": [],
+            "roomId": 4586,
+            "room": "Thanos"
+          },
+          {
+            "id": "81869",
+            "title": "Hitchhikers Guide to Rocking Machine Learning in 2019: Session for NewBies",
+            "description": "Are you looking to get started in Machine Learning or you seem to have plateaued in your ML skills and interests?\r\n\r\nThis is a session focused on providing recommendations to get you going.\r\n\r\nYou should walk away with some a good understanding of what Machine Learning is, Why you may want to explore it and How to get started. You will also get tips on accelerating your learning and staying motivated with it.\r\n\r\nFor kicks, you will also get to code your very own first character recognition program in Python using a common ML framework called SciKit Learn.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "d6efef12-0cc5-4fe1-b506-20bee22d0fff",
+                "name": "Sho Fola"
+              }
+            ],
+            "categories": [],
+            "roomId": 4586,
+            "room": "Thanos"
+          },
+          {
+            "id": "85989",
+            "title": "Building Better Stylesheets with BEMIT",
+            "description": "Unregulated, stylesheets will inevitably become a mess of conflicting patches and hot fixes as each project faces fast approaching deadlines and bugs. During this talk, you will learn how following the principles of ITCSS paired with BEM naming conventions can create a scalable, maintainable CSS architecture, that results in better stylesheets.",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "7402ee51-4d35-497b-87bb-39e8f26553cf",
+                "name": "Russell Skaggs"
+              }
+            ],
+            "categories": [],
+            "roomId": 4586,
+            "room": "Thanos"
+          },
+          {
+            "id": "84990",
+            "title": "From localhost to production: Managing your code with Azure DevOps",
+            "description": "Your code compiles. Your unit tests pass. Your website works on localhost. But “It works on my machine” does not get your site deployed to your production environment. Azure DevOps can handle much of the process of between localhost and production. Continuous Integration can build and test your application, release workflows can automate your deployments to test and production environments, and everything can be customized to employ manual interaction and gatekeeping for quality control and human oversight. Getting your application to production does not need to be an invasive, manual process. Learn to use the strength of Azure DevOps to manage your path to Production.",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "5698811a-4c31-4537-970d-e427009e0cca",
+                "name": "Jay Harris"
+              }
+            ],
+            "categories": [],
+            "roomId": 4586,
+            "room": "Thanos"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      },
+      {
+        "id": 4587,
+        "name": "Yellow",
+        "sessions": [
+          {
+            "id": "81813",
+            "title": "Why you should consider Web Assembly in your next frontend project",
+            "description": "During the last decades a growing trend has been to put more and more functionality into the client by using the latest and greatest JavaScript framework. But what if we could be using native code in the browser in order to run computations faster and potentially reuse code from the backend in the frontend. \r\n\r\nEnter Web Assembly. Web assembly is a new web standard which enables you to run native code as part of your current JavaScript framework. This talk will give you a thorough understanding of what web assembly is and how you can use it in your project. \r\n\r\nWe will cover a practical example writing our web assembly using Rust. We will go through everything from writing your web assembly code to publish it as a npm package and finally use it in an existing web application.\r\n",
+            "startsAt": "2019-04-26T08:30:00",
+            "endsAt": "2019-04-26T09:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "cc4156db-2db1-47de-9578-6c9134ee6eee",
+                "name": "Håkan Silfvernagel"
+              }
+            ],
+            "categories": [],
+            "roomId": 4587,
+            "room": "Yellow"
+          },
+          {
+            "id": "83422",
+            "title": "DevOps ICU: Improving DevOps Results by (Correctly) Integrating UX",
+            "description": "UX is driving you crazy, a black throwing off timelines and killing ideas. UX doesn’t seem Lean or Agile. Can’t anybody make wireframes? Can’t we circumvent or exclude these people? \r\n\r\nDevOps is truly about so much more than how developers connect with IT, how infrastructure is managed, and how frameworks can be improved. It’s about recognizing how many teams are truly involved in the software development process and finding better ways to make sure everybody is at the table.\r\n\r\nThis session will explain how the UX process fits into Agile; saves companies money; augments DevOps goals; and increases customer satisfaction.",
+            "startsAt": "2019-04-26T09:45:00",
+            "endsAt": "2019-04-26T10:45:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "149f7477-e1e8-4db1-a752-e0eee3903306",
+                "name": "Debbie Levitt"
+              }
+            ],
+            "categories": [],
+            "roomId": 4587,
+            "room": "Yellow"
+          },
+          {
+            "id": "85963",
+            "title": "Measure All the Things!",
+            "description": "DevOps promises to be the panacea that cures all your software development woes. But how do you know if it is working? Successful DevOps adoption has to go beyond the mantra of automation. I will reveal common, broadly accepted metrics you can use to measure your team’s performance, and the value of setting ambitious goals that drive transformational change.",
+            "startsAt": "2019-04-26T11:00:00",
+            "endsAt": "2019-04-26T12:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "e5c5dcc8-0e4c-4ebf-a51c-195662d93362",
+                "name": "Nicolas Martin"
+              }
+            ],
+            "categories": [],
+            "roomId": 4587,
+            "room": "Yellow"
+          },
+          {
+            "id": "82232",
+            "title": "If You Only Have One AWS Account, You're Doing it Wrong!",
+            "description": "AWS makes it pretty easy to setup an account so you can start solving problems pretty quickly. Unfortunately, they don’t warn you about what happens when you start getting requests for more access to that account and more assets in that account. Believe it or not, there is actually a best practice when it comes to AWS account management and it is indeed both an art and a science - and it doesn’t involve tagging. In this talk, we will take a look at AWS Landing Zone and the philosophy behind it. We will also discuss about how to best segment your primary account as well as why it may make sense to put every environment, from every project, into its own account. Seriously.",
+            "startsAt": "2019-04-26T13:00:00",
+            "endsAt": "2019-04-26T14:00:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "d2a1b94c-242d-4b85-a294-7e7148223998",
+                "name": "William Klos"
+              }
+            ],
+            "categories": [],
+            "roomId": 4587,
+            "room": "Yellow"
+          },
+          {
+            "id": "81856",
+            "title": "The Automation Firehose: Be Strategic and Tactical",
+            "description": "The widespread adoption of test automation has led to numerous challenges that range from development lifecycle integration to simple scripting strategy. Just because a scenario CAN be automated does not mean it SHOULD be automated. Teams that adopt automation often rush to automate everything they can -- the automation firehose. For those scenarios that should automated, every team must adopt an implementation plan to ensure value is derived from reliable automated test execution. In this session, the audience will learn how to automate both strategically and tactically to maximize the benefits of automation. Entry criteria will be demonstrated for automation in the development lifecycle along with a set of checks to determine automation feasibility & ROI. ",
+            "startsAt": "2019-04-26T14:15:00",
+            "endsAt": "2019-04-26T15:15:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "da1f3c6b-ce55-48df-824c-c6f681f77f8c",
+                "name": "Thomas Haver"
+              }
+            ],
+            "categories": [],
+            "roomId": 4587,
+            "room": "Yellow"
+          },
+          {
+            "id": "81731",
+            "title": "Teaching Skills for Technical Experts",
+            "description": "Bad news: tech folks are not always the most compelling teachers.  (It's not our fault; we're used to teaching computers how to do things, not people!) Good news: teaching people is a learnable skill.  Best news: this talk is a quick primer on educational philosophy, curriculum development, and content delivery for technical experts.  We'll cover learning styles, effective communication, and audience management (aka how to “read the room”), along with an introduction to some free, web-based teaching resources.  Participants will leave ready to share their expertise with the world via more effective conference talks, workshops, and one-on-one mentoring.",
+            "startsAt": "2019-04-26T15:30:00",
+            "endsAt": "2019-04-26T16:30:00",
+            "isServiceSession": false,
+            "isPlenumSession": false,
+            "speakers": [
+              {
+                "id": "3973e7f0-7d80-44cb-8831-b996f73f75f2",
+                "name": "Tori Brenneison"
+              }
+            ],
+            "categories": [],
+            "roomId": 4587,
+            "room": "Yellow"
+          }
+        ],
+        "hasOnlyPlenumSessions": false
+      }
+    ],
+    "timeSlots": [
+      {
+        "slotStart": "07:30:00",
+        "rooms": [
+          {
+            "id": 4579,
+            "name": "Concourse",
+            "session": {
+              "id": "4479c66c-80c5-43e4-8894-244993483b1f",
+              "title": "Breakfast",
+              "description": null,
+              "startsAt": "2019-04-26T07:30:00",
+              "endsAt": "2019-04-26T08:30:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 4579,
+              "room": "Concourse"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "08:30:00",
+        "rooms": [
+          {
+            "id": 4580,
+            "name": "Blue",
+            "session": {
+              "id": "85539",
+              "title": "Learn DevOps Or Die",
+              "description": "This presentation will introduce the audience to the practice of DevOps as well as explaining why DevOps is needed in today’s web scale environments. This presentation will also explain why current systems engineers/administrators should incorporate DevOps tools and methodologies into their current skillset and how it can help technology professionals excel in their career.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "73665d60-bb19-4cdd-919a-04bf4938d166",
+                  "name": "Greg Greenlee"
+                }
+              ],
+              "categories": [],
+              "roomId": 4580,
+              "room": "Blue"
+            },
+            "index": 1
+          },
+          {
+            "id": 4581,
+            "name": "Gauntlet",
+            "session": {
+              "id": "83205",
+              "title": "Intro to Hacking with the Raspberry Pi",
+              "description": "You've heard lots of hype about the Raspberry Pi, the credit-card sized computer available for under $40. This (updated) talk will introduce some of the Pi's features, explore some sample projects you can create, and show you how to write code to control hardware through it's IO pins. After this talk you will be ready to make your own cool hacking projects with the Pi.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "97e1c796-8bf6-468b-b246-0efc6979b9e7",
+                  "name": "Sarah Withee"
+                }
+              ],
+              "categories": [],
+              "roomId": 4581,
+              "room": "Gauntlet"
+            },
+            "index": 2
+          },
+          {
+            "id": 4582,
+            "name": "Green",
+            "session": {
+              "id": "83639",
+              "title": "How to avoid UX-traps with a deck of cards",
+              "description": "In this session you will learn easy and comprehensible steps to catch the most common UI/UX problems, why they are a problem and how to fix them.\r\nThis no-fluff-easy-to-comprehend-system is perfect for developers and everyone else who wants to give their user the best experience possible.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "94f89e09-9831-495d-8f94-ac5fbc91e998",
+                  "name": "Jessica Engström"
+                }
+              ],
+              "categories": [],
+              "roomId": 4582,
+              "room": "Green"
+            },
+            "index": 3
+          },
+          {
+            "id": 4583,
+            "name": "Orange",
+            "session": {
+              "id": "81760",
+              "title": "Azure Durable Functions for Serverless .NET Orchestration",
+              "description": "Durable Functions is a new open-source extension to Azure Functions that enable long running orchestrations and stateful processes to execute as serverless functions.  Learn how to write durable functions, and patterns and best practices to write simple or complex stateful orchestrations.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "76842364-2733-4aea-a940-7c81195e5120",
+                  "name": "Chad Green"
+                }
+              ],
+              "categories": [],
+              "roomId": 4583,
+              "room": "Orange"
+            },
+            "index": 4
+          },
+          {
+            "id": 4584,
+            "name": "Purple",
+            "session": {
+              "id": "82364",
+              "title": "Exploring How A Starter Kit Can Accelerate Your Project Development",
+              "description": "There are countless decisions to be made when starting a new project. Which tools, frameworks, and processes will give you the biggest head start? Reaching a team consensus about what to use and what not to use can be trying. Instead of going through this exercise for every new project, create a baseline! This session introduces one team’s approach to reaching consensus, the starter kit they created, and the ways the kit has improved their efficiency. Whether you’re on a consulting team frequently developing new greenfield projects or on an enterprise team working with microservices, you’ll see how to identify areas where your team can automate, abstract, and reuse.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "e4602813-02ac-43c2-b90c-d6e9b00b9b35",
+                  "name": "Chris Bohatka"
+                }
+              ],
+              "categories": [],
+              "roomId": 4584,
+              "room": "Purple"
+            },
+            "index": 5
+          },
+          {
+            "id": 4585,
+            "name": "Red",
+            "session": {
+              "id": "85936",
+              "title": "They don't make 'em like they used to: Integrating Junior Developers into your team",
+              "description": "Everybody has to start in the industry somewhere, even if they barely know what HTML is. Come learn tips and tricks to better integrate new members into your team from an \"experienced\" junior developer. We'll cover methodologies for assigning work, how to foster open and honest conversations, and how to teach technical topics. All from the perspective of a fresh entrant to Software Development.\r\n\r\nBy the end of the talk, you should feel comfortable in justifying on-boarding junior developers. You'll be able to identify ways to integrate them into your existing projects and how to best help them become productive members of your team. Because at the end of they day, both you and your junior developers are interested in shedding that \"junior\" line from their title as quickly as possible.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "0121492f-235c-4c2a-b558-8499bb907afe",
+                  "name": "Robin Clower"
+                }
+              ],
+              "categories": [],
+              "roomId": 4585,
+              "room": "Red"
+            },
+            "index": 6
+          },
+          {
+            "id": 4586,
+            "name": "Thanos",
+            "session": {
+              "id": "82824",
+              "title": "Everything You Always Wanted to Know About Distributed Architectures * But Were Afraid to Ask",
+              "description": "Distributed application architectures are complex. To a large extent, the past forty years of computer science has been dedicated to avoiding the problem, rather than addressing it head-on. The age of “internet of things” and “microservices”, however, has forced us into a world where we must not only acknowledge distributed architectures, but must embrace them. This session is aimed at equipping you with the knowledge necessary to understand and thrive in a truly distributed architecture. We’ll dive deep into the theory that drives modern distributed systems, and come out the other side prepared to build our own.",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "4b27e07a-b943-4364-9db8-9d9d564d60ab",
+                  "name": "Michael Meadows"
+                }
+              ],
+              "categories": [],
+              "roomId": 4586,
+              "room": "Thanos"
+            },
+            "index": 7
+          },
+          {
+            "id": 4587,
+            "name": "Yellow",
+            "session": {
+              "id": "81813",
+              "title": "Why you should consider Web Assembly in your next frontend project",
+              "description": "During the last decades a growing trend has been to put more and more functionality into the client by using the latest and greatest JavaScript framework. But what if we could be using native code in the browser in order to run computations faster and potentially reuse code from the backend in the frontend. \r\n\r\nEnter Web Assembly. Web assembly is a new web standard which enables you to run native code as part of your current JavaScript framework. This talk will give you a thorough understanding of what web assembly is and how you can use it in your project. \r\n\r\nWe will cover a practical example writing our web assembly using Rust. We will go through everything from writing your web assembly code to publish it as a npm package and finally use it in an existing web application.\r\n",
+              "startsAt": "2019-04-26T08:30:00",
+              "endsAt": "2019-04-26T09:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "cc4156db-2db1-47de-9578-6c9134ee6eee",
+                  "name": "Håkan Silfvernagel"
+                }
+              ],
+              "categories": [],
+              "roomId": 4587,
+              "room": "Yellow"
+            },
+            "index": 8
+          }
+        ]
+      },
+      {
+        "slotStart": "09:45:00",
+        "rooms": [
+          {
+            "id": 4580,
+            "name": "Blue",
+            "session": {
+              "id": "86026",
+              "title": "Accessibility: What is it, Why care about it, and How to add it",
+              "description": "We all know that we should \"make reasonable accommodations\" for those with disabilities in our work, but what could we not be considering? In this talk, Jack Merideth will walk you through how to approach your design and development work to account for all persons, whether they are blind, deaf, or neuro-divergent. \r\n\r\nAttendees will walk away with knowledge of what disabilities we can account for as designers and developers, some common pitfalls in design and development, and a few tricks to go above and beyond \"reasonable accommodation.\"",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "799b14db-fe81-4912-ba27-4fab3612181e",
+                  "name": "John Merideth"
+                }
+              ],
+              "categories": [],
+              "roomId": 4580,
+              "room": "Blue"
+            },
+            "index": 1
+          },
+          {
+            "id": 4581,
+            "name": "Gauntlet",
+            "session": {
+              "id": "83131",
+              "title": "Dude, Where's my Service!?!",
+              "description": "Are you tired of maintaining connection information in boring config files?  Ever wonder if there's an easier way?  Well there is and it's called Service Discovery.  In this session we will explore what is Service Discovery, the benefits, the problems it solves,  and we'll demonstrate an introductory Service Discovery setup with AWS Cloud Map.",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "c06d9d21-5dee-4abc-a461-b3a80d5ff1b8",
+                  "name": "Josh Wood"
+                }
+              ],
+              "categories": [],
+              "roomId": 4581,
+              "room": "Gauntlet"
+            },
+            "index": 2
+          },
+          {
+            "id": 4582,
+            "name": "Green",
+            "session": {
+              "id": "81729",
+              "title": "If Your Tests Could Talk",
+              "description": "Test Driven Development (TDD) has failed!  Tests are hard to write, run slowly, break easily, are hard to understand, take a long time to write and are a pain to modify!  If any of this sounds familiar, your tests are trying to tell you something.  But what are they trying to say?  Sometimes it's as simple as telling you when to extract a new abstraction or to decompose a function.   Other times the message can be less obvious, like telling you your code is too tightly coupled or that responsibilities have been assigned incorrectly.  Sometimes they can tell you it's time to back up and rethink your design.  Come explore these and other sources of trouble with test driving code.  If you have been burnt by TDD in the past, this may be the perfect opportunity to try it again armed with a clear set of guidelines to interpret the feedback from your tests.  Your tests are already talking… find out what they have to say!",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "402c1fb7-50cd-4784-bc1a-e713381a4e72",
+                  "name": "James Balmert"
+                }
+              ],
+              "categories": [],
+              "roomId": 4582,
+              "room": "Green"
+            },
+            "index": 3
+          },
+          {
+            "id": 4583,
+            "name": "Orange",
+            "session": {
+              "id": "81946",
+              "title": "The Developer's Guide to Selling Your Work",
+              "description": "A few years ago, I had an idea to make the web better. It was going to be great, and I had the team to build it. Nine months of late nights and lost weekends later, we launched it! The problem: no one cared.\r\n\r\nA brilliant project isn't enough. I had to spread my vision, which was difficult for a developer like me. I learned quickly that even the best ideas needed to be sold. I had to build an audience, tell a story, and win over customers. Join me for a developer's guide to marketing. I'll share hard-fought lessons on page design, social networking, advertising, and analytics that will help you bring your ideas to the world.",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "5f017dbb-6821-480b-a750-82a0f15fa1b2",
+                  "name": "Todd Gardner"
+                }
+              ],
+              "categories": [],
+              "roomId": 4583,
+              "room": "Orange"
+            },
+            "index": 4
+          },
+          {
+            "id": 4584,
+            "name": "Purple",
+            "session": {
+              "id": "86078",
+              "title": "Top 5 Architecture Patterns",
+              "description": "The technology landscape continues to evolve at a blazing pace. To keep up with these changes, architecture patterns have evolved. This talk with cover 5 influential architecture patterns including:\r\n\r\n1. Layered\r\n2. Event-Driven\r\n3. Microkernel\r\n4. Microservices\r\n5. Space-Based\r\n\r\nBrush up on the oldies, learn about cutting-edge architectural patterns, when to use them and when to combine them.",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "0359504c-817a-470d-b72c-3e3eac9f2289",
+                  "name": "Jim Everett"
+                }
+              ],
+              "categories": [],
+              "roomId": 4584,
+              "room": "Purple"
+            },
+            "index": 5
+          },
+          {
+            "id": 4585,
+            "name": "Red",
+            "session": {
+              "id": "81740",
+              "title": "Electrify Your Web App",
+              "description": "Electrifying your Web app sounds out of this world doesn't it? Well, it is possible with a stable, subatomic framework called Electron. If you have ever built a Web app and thought to yourself, \"Self, this would be awesome if I could bring this experience to desktops around the world!\", now it is possible with Electron. Electron is a framework for creating native applications with front-end technologies that we all know and love. In this talk, I will introduce Electron, build a small application with front-end technologies including accessibility, and then deploy it to the desktop.",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
+                  "name": "Chris DeMars"
+                }
+              ],
+              "categories": [],
+              "roomId": 4585,
+              "room": "Red"
+            },
+            "index": 6
+          },
+          {
+            "id": 4586,
+            "name": "Thanos",
+            "session": {
+              "id": "84108",
+              "title": "Starting Over",
+              "description": "Adversity. A necessary component of life. Inevitably, we all reach professional and personal moments that require us to take a deep breath and a giant step back. Moving forward again often feels difficult, even impossible. We suffer, immobilized by fear.\r\n\r\nBut fear is more than some pesky roadblock. It is a rational response to adversity. Whether facing a major code refactoring, the changing technology landscape, a new role, or even a fresh career, we can learn to leverage fear and uncertainty to move beyond our hurdles and get the job done! Key life skills exist that can be developed to conquer adversity. Learn to assess risks, build relationships, and recognize opportunities for growth.\r\n\r\nStarting over may seem insurmountable. Armed with the right skills, perspective, and a little patience, nothing truly is.",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "b3761cce-aaeb-4ca4-a5b3-40f162f6bcf8",
+                  "name": "Jeff Strauss"
+                }
+              ],
+              "categories": [],
+              "roomId": 4586,
+              "room": "Thanos"
+            },
+            "index": 7
+          },
+          {
+            "id": 4587,
+            "name": "Yellow",
+            "session": {
+              "id": "83422",
+              "title": "DevOps ICU: Improving DevOps Results by (Correctly) Integrating UX",
+              "description": "UX is driving you crazy, a black throwing off timelines and killing ideas. UX doesn’t seem Lean or Agile. Can’t anybody make wireframes? Can’t we circumvent or exclude these people? \r\n\r\nDevOps is truly about so much more than how developers connect with IT, how infrastructure is managed, and how frameworks can be improved. It’s about recognizing how many teams are truly involved in the software development process and finding better ways to make sure everybody is at the table.\r\n\r\nThis session will explain how the UX process fits into Agile; saves companies money; augments DevOps goals; and increases customer satisfaction.",
+              "startsAt": "2019-04-26T09:45:00",
+              "endsAt": "2019-04-26T10:45:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "149f7477-e1e8-4db1-a752-e0eee3903306",
+                  "name": "Debbie Levitt"
+                }
+              ],
+              "categories": [],
+              "roomId": 4587,
+              "room": "Yellow"
+            },
+            "index": 8
+          }
+        ]
+      },
+      {
+        "slotStart": "11:00:00",
+        "rooms": [
+          {
+            "id": 4580,
+            "name": "Blue",
+            "session": {
+              "id": "84934",
+              "title": "Data Analytics with Google: Implementing Google Analytics with Google Tag Manager and Firebase",
+              "description": "Accurate data provides the opportunity to understand your users, empirically validate product development, provide personalized experiences, and make good business decisions for the future. A not so long time ago in an Ohio city not so far away, accurate user data was non existent.\r\n\r\nIn this session I will share what I learned implementing an analytics solution across four digital platforms—Android, iOS, Web, and Kiosk—using Google Analytics, Enhanced Ecommerce, Google Tag Manager, and Firebase. I will start with the why of analytics, presenting the business case, motivations, and hoped for ROI. Then I will highlight key pieces of Google’s analytics offerings as I share experiences from exploring and implementing Google Analytics.\r\n\r\nWhether you are deciding on which analytics solution to use on your current project or just interested in data, anyone looking to learn about Google’s analytics offerings will find value in this session.",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "45cd7b65-5c14-4dcc-8abb-5e6468e0be1e",
+                  "name": "Adam Pasternack"
+                }
+              ],
+              "categories": [],
+              "roomId": 4580,
+              "room": "Blue"
+            },
+            "index": 1
+          },
+          {
+            "id": 4581,
+            "name": "Gauntlet",
+            "session": {
+              "id": "84467",
+              "title": "Running Containers in AWS - Learn about ECS, EKS, Fargate and Elastic Beanstalk",
+              "description": "Learn about the different options for running Docker containers in AWS, in particular ECS (Elastic Container Service), EKS (Elastic Container Service for Kubernetes), Fargate and Elastic Beanstalk.\r\nThe session will compare the different orchestration options for ease of use, integration with other AWS technologies, cost and portability.",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "5b65f17e-cf5a-4746-84d6-217e6445931e",
+                  "name": "Andrew May"
+                }
+              ],
+              "categories": [],
+              "roomId": 4581,
+              "room": "Gauntlet"
+            },
+            "index": 2
+          },
+          {
+            "id": 4582,
+            "name": "Green",
+            "session": {
+              "id": "81898",
+              "title": "Accessibility as a Business Requirement",
+              "description": "As much as we hate to admit it, sometimes accessibility requirements are only fulfilled when a big client, an important stakeholder, or the government puts their foot down. I’ll walk through a specific example of difficult code getting an accessibility face lift. What happens when you don’t have tools or access to thoroughly test, but the deadline isn’t changing? What happens when your app is technically accessible, but you failed to test it adequately and accidentally break a core feature for an entire country… twice? Any level proficiency in HTML, CSS, and .NET/Razor.\r\n\r\nMy goal is to make accessibility tasks more relatable for the average developer. It's something we all know we \"should\" do, even when national laws require us to do so, but there's still a disconnect between coding a new feature and then making sure it's accessible. This talk addresses imperfect circumstances that force a developer to learn quickly and recover from mistakes, something we can all relate to. ",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "79ffb7a2-2c35-453b-8a95-405b1991a63c",
+                  "name": "Stacy Harrison"
+                }
+              ],
+              "categories": [],
+              "roomId": 4582,
+              "room": "Green"
+            },
+            "index": 3
+          },
+          {
+            "id": 4583,
+            "name": "Orange",
+            "session": {
+              "id": "82863",
+              "title": "Building mostly serverless distributed cloud systems step by step",
+              "description": "Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day.\r\nAlthough the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play.\r\nBasically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.\r\n\r\nAt the core of the system, we'll take a third-party system and pretend it's a legacy API, and then slowly build our distributed, scalable, geo-distributed and a tad cross-cloud system around it.\r\n\r\nContainers will be used for tasks that take time, and some places where we need an immediate response. Durable Functions will be orchestrating the whole logic. We shouldn't forget about Service Bus Queues/Topics, but we'll also need Event Grid to connect various parts of the system. In the end, there's \"nothing better\" than API Management to be at the front.\r\n",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "bfb38ebb-9307-4d7d-88fb-7fc3599a7c1c",
+                  "name": "Ivan Čuljak"
+                }
+              ],
+              "categories": [],
+              "roomId": 4583,
+              "room": "Orange"
+            },
+            "index": 4
+          },
+          {
+            "id": 4584,
+            "name": "Purple",
+            "session": {
+              "id": "81910",
+              "title": "Hacking JWTs",
+              "description": "So you’ve finally implemented your own authorization server.  And it uses JWT because everyone else does.  But is it secure?  JWTs are the new great thing that everyone is talking about but you need to use them correctly.  During this talk, we will see how we can use various attacks to hack into OAuth systems that use JWTs as a token mechanism.  By seeing the attackers’ point of view, the attendees will learn how to better defend themselves and make more secure servers.",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "5a111e09-2922-4aff-a0eb-9b6691b6e8b2",
+                  "name": "Joel Lord"
+                }
+              ],
+              "categories": [],
+              "roomId": 4584,
+              "room": "Purple"
+            },
+            "index": 5
+          },
+          {
+            "id": 4585,
+            "name": "Red",
+            "session": {
+              "id": "85558",
+              "title": "Health: The Most Important Tech Tool",
+              "description": "Working in the tech industry often involves spending long hours sitting down, staring at a screen, consuming copious amounts of pizza and caffeine. The work is mentally demanding and can be stressful. In the rush to get everything done, it can be easy to neglect our health. But a healthy body and mind are necessary for effective performance. Based on HR training, research, and personal experience, this session provides realistic suggestions for managing your well-being at work. It covers the connection between physical and mental health, as well as how to discuss these topics with your employer. You’ll leave with a better idea of how to take care of yourself and be a happier, healthier, more productive person.",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "2ab36140-1f0d-46b1-85f5-c8f0222a4c4c",
+                  "name": "Cassandra Faris"
+                }
+              ],
+              "categories": [],
+              "roomId": 4585,
+              "room": "Red"
+            },
+            "index": 6
+          },
+          {
+            "id": 4586,
+            "name": "Thanos",
+            "session": {
+              "id": "83559",
+              "title": "Holo world - Create your first HoloLens app with Unity",
+              "description": "HoloLens breached a barrier, a barrier between the digital and the real world, bringing digital content into our world.\r\nOver the past year the HoloLens has continued to create new ways to visualize, to change education and the medical industry.\r\nHoloLens is not only for games it is a Business platform (that is game enabled)\r\nUsing Unity we can create an experience that lets you bring digital content and interact with the real world.\r\nDuring this session we will take a look at the HoloLens hardware, the possibilities, the limitations and tooling.\r\nWe will take a look at the basics of Unity and also create a HoloLens app from scratch complete with Gaze, Air Tap, Spatial mapping and Voice using Mixed Reality Toolkit.",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "887b6c2e-49a1-4fda-94cf-7ec421f61c3c",
+                  "name": "Jimmy Engström"
+                }
+              ],
+              "categories": [],
+              "roomId": 4586,
+              "room": "Thanos"
+            },
+            "index": 7
+          },
+          {
+            "id": 4587,
+            "name": "Yellow",
+            "session": {
+              "id": "85963",
+              "title": "Measure All the Things!",
+              "description": "DevOps promises to be the panacea that cures all your software development woes. But how do you know if it is working? Successful DevOps adoption has to go beyond the mantra of automation. I will reveal common, broadly accepted metrics you can use to measure your team’s performance, and the value of setting ambitious goals that drive transformational change.",
+              "startsAt": "2019-04-26T11:00:00",
+              "endsAt": "2019-04-26T12:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "e5c5dcc8-0e4c-4ebf-a51c-195662d93362",
+                  "name": "Nicolas Martin"
+                }
+              ],
+              "categories": [],
+              "roomId": 4587,
+              "room": "Yellow"
+            },
+            "index": 8
+          }
+        ]
+      },
+      {
+        "slotStart": "12:00:00",
+        "rooms": [
+          {
+            "id": 4579,
+            "name": "Concourse",
+            "session": {
+              "id": "005fdcf8-88ff-4f09-9ac2-48e58d6b1f8f",
+              "title": "Lunch",
+              "description": null,
+              "startsAt": "2019-04-26T12:00:00",
+              "endsAt": "2019-04-26T13:00:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 4579,
+              "room": "Concourse"
+            },
+            "index": 0
+          }
+        ]
+      },
+      {
+        "slotStart": "13:00:00",
+        "rooms": [
+          {
+            "id": 4580,
+            "name": "Blue",
+            "session": {
+              "id": "85493",
+              "title": "Waterfall Requirements in an Agile World: Don't Throw the Baby Out with the Bathwater",
+              "description": "When the world went Agile, BAs everywhere were quick to abandon traditional requirements like \"the system must...\", \"the system shall...\", etc.  But there is still very much a place for waterfall requirements and the techniques used to elicit them in our modern world.  In this presentation, I'll talk through the value the BA brings to the table in any software development, with special emphasis on how waterfalls skills and techniques can benefit Agile.  At least three types of people can benefit:  those that used to be waterfall and wonder how to fit into an Agile world; those that wonder if their old waterfall experience can be leveraged at all; and those that don't know anything about waterfall and may want to learn some new techniques.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "46df2a45-b400-4d88-b6d9-dcd2f1f17e54",
+                  "name": "Barbara Kerr"
+                }
+              ],
+              "categories": [],
+              "roomId": 4580,
+              "room": "Blue"
+            },
+            "index": 1
+          },
+          {
+            "id": 4581,
+            "name": "Gauntlet",
+            "session": {
+              "id": "83723",
+              "title": "CI/CD - More Than an Acronym, It's a culture shift",
+              "description": "With all the advancements in the tooling around CI and CD, implementing the technology has never been easier. Helping your team embrace the cultural change necessary to follow this cycle… that’s another story.\r\n\r\nIn this talk, you’ll learn the true meaning of CI/CD — that’s Continuous Integration and Continuous Deployment, if you don’t speak alphabet soup — and the various principles that drive it. To embrace these principles, you’ll need to change your team’s mindset, which can be a tough transition. I lead this transition in my organization, and I will walk you through the lessons I learned. After this talk, you will have a clear understanding of CI/CD as well as how to implement a true cultural shift in your team to take full advantage of this new, powerful methodology.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "01b15b1c-44e4-4121-b057-ae7eb9c83934",
+                  "name": "James Quick"
+                }
+              ],
+              "categories": [],
+              "roomId": 4581,
+              "room": "Gauntlet"
+            },
+            "index": 2
+          },
+          {
+            "id": 4582,
+            "name": "Green",
+            "session": {
+              "id": "86096",
+              "title": "Say What? Get better client feedback with these 3 easy steps",
+              "description": "Surveys can appear to be an easy way to directly tap into your client’s needs and concerns. Without a development framework, however, they can produce unclear results due to bloat, poor design, tedium, or confusing questions. This talk will break down the development, validation, and choice modeling process for gaining actionable feedback from clients. Attendees will learn to incorporate composition, user experience, and even defend against trolls and cheaters when developing their next client feedback strategy.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "d1f5518f-7c56-4c41-ad23-8e0565b3ba2f",
+                  "name": "Rebecca R. Carter"
+                }
+              ],
+              "categories": [],
+              "roomId": 4582,
+              "room": "Green"
+            },
+            "index": 3
+          },
+          {
+            "id": 4583,
+            "name": "Orange",
+            "session": {
+              "id": "83345",
+              "title": "The Way of the Droid",
+              "description": "In a galaxy not so far away, lived a simple maker. After hundreds of hours of crafting, sanding and tinkering all while harnessing the “light side” of the droid, he finally did it. He placed the last part and tightened the final screw on his little friend. Upon seeing his creation come to life, he decided this power was too great for any one person to control. So he set out amongst the stars traveling from planet to planet visiting learning centers to teach other padawan’s the way of the droid. This talk will focus on this maker’s experiences with building the astrodroid BB8. It will touch on topics such as 3d printing, arduino programming, crafting, and robotics.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "db2cd162-6ad9-48d8-9cba-1a6799346abe",
+                  "name": "Mike Goeke"
+                }
+              ],
+              "categories": [],
+              "roomId": 4583,
+              "room": "Orange"
+            },
+            "index": 4
+          },
+          {
+            "id": 4584,
+            "name": "Purple",
+            "session": {
+              "id": "82423",
+              "title": "AngularJS to Angular 7 Migration",
+              "description": "This talk will walk you through the process of migrating your AngularJS app to Angular 7. You'll learn about hybrid Angular apps, why they're need for migration and how to set them up. You'll be introduced the Angular CLI and see how to move your entire build process to this tool. We will also take a look at few examples of how to migrate components and services from AngularJS to Angular 7.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "66178d4c-95e1-4a9b-b752-62c1ed63ca0c",
+                  "name": "Matt Weimer"
+                }
+              ],
+              "categories": [],
+              "roomId": 4584,
+              "room": "Purple"
+            },
+            "index": 5
+          },
+          {
+            "id": 4585,
+            "name": "Red",
+            "session": {
+              "id": "85781",
+              "title": "Taming scary production code that nobody wants to touch",
+              "description": "Most dev teams “own” some code that they don’t really want to work with.  However it got there, the code is scary but pretty stable but now requires updates.  Perhaps your team draws straws to each time to figure out who is going to have to put on the metaphorical hazmat suit and deal with the problem.  Or worse yet, your team relies on one developer to always do it and he or she is getting burned out and could leave at any minute.\r\n\r\nMike will share some techniques that will help you modify the code with confidence using a few core refactorings and characterization test.\r\n",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "895a51db-5074-4a89-8fb6-e2d97be4f322",
+                  "name": "Mike Clement"
+                }
+              ],
+              "categories": [],
+              "roomId": 4585,
+              "room": "Red"
+            },
+            "index": 6
+          },
+          {
+            "id": 4586,
+            "name": "Thanos",
+            "session": {
+              "id": "81869",
+              "title": "Hitchhikers Guide to Rocking Machine Learning in 2019: Session for NewBies",
+              "description": "Are you looking to get started in Machine Learning or you seem to have plateaued in your ML skills and interests?\r\n\r\nThis is a session focused on providing recommendations to get you going.\r\n\r\nYou should walk away with some a good understanding of what Machine Learning is, Why you may want to explore it and How to get started. You will also get tips on accelerating your learning and staying motivated with it.\r\n\r\nFor kicks, you will also get to code your very own first character recognition program in Python using a common ML framework called SciKit Learn.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "d6efef12-0cc5-4fe1-b506-20bee22d0fff",
+                  "name": "Sho Fola"
+                }
+              ],
+              "categories": [],
+              "roomId": 4586,
+              "room": "Thanos"
+            },
+            "index": 7
+          },
+          {
+            "id": 4587,
+            "name": "Yellow",
+            "session": {
+              "id": "82232",
+              "title": "If You Only Have One AWS Account, You're Doing it Wrong!",
+              "description": "AWS makes it pretty easy to setup an account so you can start solving problems pretty quickly. Unfortunately, they don’t warn you about what happens when you start getting requests for more access to that account and more assets in that account. Believe it or not, there is actually a best practice when it comes to AWS account management and it is indeed both an art and a science - and it doesn’t involve tagging. In this talk, we will take a look at AWS Landing Zone and the philosophy behind it. We will also discuss about how to best segment your primary account as well as why it may make sense to put every environment, from every project, into its own account. Seriously.",
+              "startsAt": "2019-04-26T13:00:00",
+              "endsAt": "2019-04-26T14:00:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "d2a1b94c-242d-4b85-a294-7e7148223998",
+                  "name": "William Klos"
+                }
+              ],
+              "categories": [],
+              "roomId": 4587,
+              "room": "Yellow"
+            },
+            "index": 8
+          }
+        ]
+      },
+      {
+        "slotStart": "14:15:00",
+        "rooms": [
+          {
+            "id": 4580,
+            "name": "Blue",
+            "session": {
+              "id": "85067",
+              "title": "\"Did you get my message?\" - A comparison of several modern messaging platforms",
+              "description": "A programmer looking for a flexible messaging solution is faced with many questions and tradeoffs: What tool will offer the best performance? What will give the best flexibility and extensibility? Do I need a persistence layer or a cache?\r\n\r\nDepending on the specific application area and the structure of the data being transmitted, the requirements will be different: for example, an electronic options trading engine has different needs from a SaaS web application.\r\n\r\nThis talk will compare a variety of contemporary messaging solutions and the benefits and tradeoffs involved: \r\n\r\n- Kafka offers a persistent datastore and a clustering solution based on a \"pub-sub\" (publish-subscribe) architecture;\r\n- RabbitMQ is a message broker that implements the Advanced Message Queueing Protocol;\r\n- ZeroMQ implements a brokerless architecture that provides a socket-like abstraction to enable a variety of possible message distribution patterns.\r\n\r\nAnd finally: what do you gain and what do you lose from rolling your own simple messaging solution? Under what circumstances is the DIY approach the best one?\r\n\r\nThis talk offers a fast tour through a variety of messaging technologies and compares the pros and cons of each technology. Examples are shown in Python to favor simplicity and brevity of presentation over implementation details.",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "9f4ec925-ce10-412c-adb2-966f3efd7621",
+                  "name": "Jack Bennett"
+                }
+              ],
+              "categories": [],
+              "roomId": 4580,
+              "room": "Blue"
+            },
+            "index": 1
+          },
+          {
+            "id": 4581,
+            "name": "Gauntlet",
+            "session": {
+              "id": "86086",
+              "title": "Technical Story Telling – Communicating Complex Ideas Simply",
+              "description": "The more complicated the problem, the more critical it is to communicate it clearly so that all important players can collaborate effectively. Being able to communicate a technical topic is important and how you construct a story is crucial.  This talk is aimed at helping convey complex concepts through compelling narrative that enables technical leaders to build a groundswell of support for prudent ideas. I will walk though tactical specifics of breaking down a topic for a variety of audiences (executive, sales, developer, technical leader, customer, etc) and will provide real world examples of how I’ve done this over the years.",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "9d0eeec3-1879-4aff-87d6-6bbea4786f6c",
+                  "name": "Ben Burgett"
+                }
+              ],
+              "categories": [],
+              "roomId": 4581,
+              "room": "Gauntlet"
+            },
+            "index": 2
+          },
+          {
+            "id": 4582,
+            "name": "Green",
+            "session": {
+              "id": "84824",
+              "title": "Deep Learning like a Viking: Building Convolutional Neural Networks with Keras",
+              "description": "The Vikings came from the land of ice and snow, from the midnight sun, where the hot springs flow. In addition to longships and bad attitudes, they had a system of writing that we, in modern times, have dubbed the Younger Futhark (or ᚠᚢᚦᚬᚱᚴ if you're a Viking). These sigils are more commonly called runes and have been mimicked in fantasy literature and role-playing games for decades.\r\n\r\nOf course, having an alphabet, runic or otherwise, solves lots of problems. But, it also introduces others. The Vikings had the same problem we do today. How were they to get their automated software systems to recognize the hand-carved input of a typical boatman? Of course, they were never able to solve this problem and were instead forced into a life of burning and pillaging. Today, we have deep learning and neural networks and can, fortunately, avoid such a fate.\r\n\r\nIn this session, we are going to build a Convolution Neural Network to recognize hand-written runes from the Younger Futhark. We'll be using Keras to write easy to understand Python code that creates and trains the neural network to do this. We'll wire this up to a web application using Flask and some client-side JavaScript so you can write some runes yourself and see if it recognizes them.\r\n\r\nWhen we're done, you'll understand how Convolution Neural Networks work, how to build your own using Python and Keras, and how to make it a part of an application using Flask. Maybe you'll even try seeing what it thinks of the Bluetooth logo?",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "520bf4ca-b2d3-47c3-8475-c25bb2b257f7",
+                  "name": "Guy Royse"
+                }
+              ],
+              "categories": [],
+              "roomId": 4582,
+              "room": "Green"
+            },
+            "index": 3
+          },
+          {
+            "id": 4583,
+            "name": "Orange",
+            "session": {
+              "id": "82667",
+              "title": "ASP.NET Core: Ready for Primetime?",
+              "description": "Now that .NET Core has been with us for more than 2 years, and has seen several major revisions, is it time to consider it for your next enterprise project? Is it ready to do everything you need it to do? Are their any missing pieces or missing compatibility with third-party components?\r\n\r\nI'd like to answer all those questions, and most, all while giving you a deep view into the current state of .NET Core and ASP.NET Core. When you leave, you should know exactly when you can start to safely using ASP.NET Core for your new projects.",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "d108027a-7e26-46f5-b92d-9f6cb59eb283",
+                  "name": "Jonathan \"J.\" Tower"
+                }
+              ],
+              "categories": [],
+              "roomId": 4583,
+              "room": "Orange"
+            },
+            "index": 4
+          },
+          {
+            "id": 4584,
+            "name": "Purple",
+            "session": {
+              "id": "82032",
+              "title": "Building a Mentoring Community Through Live Coding",
+              "description": "Since I began live coding in May of 2017, an amazing community of developers of all ages, locations, and skill levels has grown around the live streams. We share idea, teach and support each other while working on real projects together. I would like to share my experience and offer some advice on how to create a respectful online environment where everyone is encouraged to ask questions and contribute and negativity is nearly non-existent.",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "e97fad68-2b77-455b-a995-7f296abd4332",
+                  "name": "Jesse Weigel"
+                }
+              ],
+              "categories": [],
+              "roomId": 4584,
+              "room": "Purple"
+            },
+            "index": 5
+          },
+          {
+            "id": 4585,
+            "name": "Red",
+            "session": {
+              "id": "85979",
+              "title": "Of Crickets and Continuous Integration",
+              "description": "In this session, I will share a project I've been working in my spare time as well as the tooling I've utilized to maintain code quality. We'll begin by exploring the problem scope and resulting solution named Elise. \r\n\r\nAttendees will learn about Node.js CLI development with native modules on a Raspberry Pi along with tooling to assist in IoT-scale deployments. A major portion of this tooling will include GitLab and its Continuous Integration support, including setup of multiple runners.",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "f48cd89b-cc9f-4478-bc40-ba541ed1c5c3",
+                  "name": "Zackary Lowery"
+                }
+              ],
+              "categories": [],
+              "roomId": 4585,
+              "room": "Red"
+            },
+            "index": 6
+          },
+          {
+            "id": 4586,
+            "name": "Thanos",
+            "session": {
+              "id": "85989",
+              "title": "Building Better Stylesheets with BEMIT",
+              "description": "Unregulated, stylesheets will inevitably become a mess of conflicting patches and hot fixes as each project faces fast approaching deadlines and bugs. During this talk, you will learn how following the principles of ITCSS paired with BEM naming conventions can create a scalable, maintainable CSS architecture, that results in better stylesheets.",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "7402ee51-4d35-497b-87bb-39e8f26553cf",
+                  "name": "Russell Skaggs"
+                }
+              ],
+              "categories": [],
+              "roomId": 4586,
+              "room": "Thanos"
+            },
+            "index": 7
+          },
+          {
+            "id": 4587,
+            "name": "Yellow",
+            "session": {
+              "id": "81856",
+              "title": "The Automation Firehose: Be Strategic and Tactical",
+              "description": "The widespread adoption of test automation has led to numerous challenges that range from development lifecycle integration to simple scripting strategy. Just because a scenario CAN be automated does not mean it SHOULD be automated. Teams that adopt automation often rush to automate everything they can -- the automation firehose. For those scenarios that should automated, every team must adopt an implementation plan to ensure value is derived from reliable automated test execution. In this session, the audience will learn how to automate both strategically and tactically to maximize the benefits of automation. Entry criteria will be demonstrated for automation in the development lifecycle along with a set of checks to determine automation feasibility & ROI. ",
+              "startsAt": "2019-04-26T14:15:00",
+              "endsAt": "2019-04-26T15:15:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "da1f3c6b-ce55-48df-824c-c6f681f77f8c",
+                  "name": "Thomas Haver"
+                }
+              ],
+              "categories": [],
+              "roomId": 4587,
+              "room": "Yellow"
+            },
+            "index": 8
+          }
+        ]
+      },
+      {
+        "slotStart": "15:30:00",
+        "rooms": [
+          {
+            "id": 4580,
+            "name": "Blue",
+            "session": {
+              "id": "85946",
+              "title": "How to Avoid the Dark Side (of UX)",
+              "description": "Turmoil has engulfed the modern web. The proliferation of dark UX betrays the directness of a user's goals and needs. Whether you call it dark user experience, deceptive design, conversion shaming or asshole design, some design patterns intend to trick, and sometimes force, the user into actions and behaviors with the sole intention of achieving business objectives. This often occurs at the detriment of the user and without consideration of their needs and goals. This presentation will discuss why these patterns exist, how to prevent them, and what to do if they, somehow, pass through the design phase. ",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "642466ae-f154-4d31-a367-277f82c665ba",
+                  "name": "Mike Earley and Rachel Banks"
+                }
+              ],
+              "categories": [],
+              "roomId": 4580,
+              "room": "Blue"
+            },
+            "index": 1
+          },
+          {
+            "id": 4581,
+            "name": "Gauntlet",
+            "session": {
+              "id": "82239",
+              "title": "5 Simple Steps To Simplifying Your Compliance Journey With A Service Mesh",
+              "description": "Building distributed systems is hard. Building distributed systems that are secure and compliant is even harder. A service mesh such as Istio can help solve engineering problems you’ll face when securing your services and complying with requirements found in GDPR, HIPAA, PCI-DSS and other standards and regulations. In this presentation, Granville will focus specifically on the security and compliance challenges that developers, operators and leaders face when building distributed systems in highly regulated industries; and show how to effectively leverage Istio to address them.",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "b3b55b4f-3d74-4ca0-921a-e723705df3aa",
+                  "name": "Granville Schmidt"
+                }
+              ],
+              "categories": [],
+              "roomId": 4581,
+              "room": "Gauntlet"
+            },
+            "index": 2
+          },
+          {
+            "id": 4582,
+            "name": "Green",
+            "session": {
+              "id": "85909",
+              "title": "Event-driven Architecture, Micro-services and the Cloud",
+              "description": "Event-driven architectures are a versatile approach to designing and integrating complex software systems.  Event-driven architecture is not a new concept, but as more organizations evolve and are open to move more features to the cloud, this approach to system design has become appropriate in more situations and is worth a fresh look. \r\n\r\nIn this session we'll talk about orchestrating enterprise workflows in the cloud using Event-driven approaches, how to build new services to participate, and design patterns for integrating existing/legacy applications.\r\n\r\nWe'll also hit a few topics including:\r\n\t• Eventually consistent data and how to keep your data warehouse team happy\r\n\t• Command-Query Response Segregation\r\n\t• The Mediator design pattern\r\n\t• Event Sourcing",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "2bcc628d-f41b-47d5-a36e-d926beb570fa",
+                  "name": "Shawn Wallace"
+                }
+              ],
+              "categories": [],
+              "roomId": 4582,
+              "room": "Green"
+            },
+            "index": 3
+          },
+          {
+            "id": 4583,
+            "name": "Orange",
+            "session": {
+              "id": "85296",
+              "title": "Cypress: Where Automated Web UI Testing Isn’t Just for QA Anymore",
+              "description": "Today’s fast-moving software delivery environment emphasizes pushing value to production as quickly as possible. “Value to production” implicitly requires high quality—low quality is of little value to anyone! —which means teams need to focus on being able to specify, build, test, and deploy software effectively and quickly. Acceptance testing historically been manually intensive efforts run by a dedicated QA department, resulting in a slower pace of production releases.\r\n\r\nNo longer do we have to make acceptance a manual effort that requires a dedicated QA department.   With the release of Cypress, we have a new standard in front-end testing that allows every developer to create acceptance tests.  Come learn how you can create fast, easy, and reliable test for anything that runs in a browser regardless of the front-end framework used.\r\n\r\nYou will walk away ready to end the era of “Developers don’t write acceptance tests” and start writing acceptance tests for all of your projects. ",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "3e903f94-c2bf-4543-aa77-9990467f4573",
+                  "name": "Justin James"
+                }
+              ],
+              "categories": [],
+              "roomId": 4583,
+              "room": "Orange"
+            },
+            "index": 4
+          },
+          {
+            "id": 4584,
+            "name": "Purple",
+            "session": {
+              "id": "81779",
+              "title": "Notebooks are still cool...with Jupyter",
+              "description": "Whether you’re coding in Python, R or even JavaScript, Jupyter is a tool you should consider for your toolbelt.  Jupyter notebooks provide a platform for data scientists and engineers to rapidly prototype, experiment, and share their findings with each other.  Come and learn about how you and your team can leverage Jupyter notebooks, the recently released JupyterLab (Feb 2018), or the collaborative JupyterHub.  You’ll leave this session with a better understanding of what you can do with Jupyter notebooks as well as how to run Jupyter notebooks on your local system or your favorite cloud service.\r\n",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "7fb46913-1a7b-43e2-9579-e620883815ea",
+                  "name": "Ryan Bales"
+                }
+              ],
+              "categories": [],
+              "roomId": 4584,
+              "room": "Purple"
+            },
+            "index": 5
+          },
+          {
+            "id": 4585,
+            "name": "Red",
+            "session": {
+              "id": "82110",
+              "title": "Building Accessible UI with React Native",
+              "description": "React Native is an innovative, cutting-edge technology that provides developers the \r\nability to build apps for both iOS and Android. But this causes double the concern for users of either platform who may be disabled. Accessibility is an important topic that needs to practiced and integrated as we build engaging RN apps. Creating code with Accessibility in mind will only further user engagement and ensure our apps are able to be used by everyone. Inn this talk, I'll break down how to write more compassionate code and build React Native components with empathy for users in mind",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "993340a7-9ed4-4ea3-8f7b-5ee1601d0a97",
+                  "name": "Tae'lur Alexis"
+                }
+              ],
+              "categories": [],
+              "roomId": 4585,
+              "room": "Red"
+            },
+            "index": 6
+          },
+          {
+            "id": 4586,
+            "name": "Thanos",
+            "session": {
+              "id": "84990",
+              "title": "From localhost to production: Managing your code with Azure DevOps",
+              "description": "Your code compiles. Your unit tests pass. Your website works on localhost. But “It works on my machine” does not get your site deployed to your production environment. Azure DevOps can handle much of the process of between localhost and production. Continuous Integration can build and test your application, release workflows can automate your deployments to test and production environments, and everything can be customized to employ manual interaction and gatekeeping for quality control and human oversight. Getting your application to production does not need to be an invasive, manual process. Learn to use the strength of Azure DevOps to manage your path to Production.",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "5698811a-4c31-4537-970d-e427009e0cca",
+                  "name": "Jay Harris"
+                }
+              ],
+              "categories": [],
+              "roomId": 4586,
+              "room": "Thanos"
+            },
+            "index": 7
+          },
+          {
+            "id": 4587,
+            "name": "Yellow",
+            "session": {
+              "id": "81731",
+              "title": "Teaching Skills for Technical Experts",
+              "description": "Bad news: tech folks are not always the most compelling teachers.  (It's not our fault; we're used to teaching computers how to do things, not people!) Good news: teaching people is a learnable skill.  Best news: this talk is a quick primer on educational philosophy, curriculum development, and content delivery for technical experts.  We'll cover learning styles, effective communication, and audience management (aka how to “read the room”), along with an introduction to some free, web-based teaching resources.  Participants will leave ready to share their expertise with the world via more effective conference talks, workshops, and one-on-one mentoring.",
+              "startsAt": "2019-04-26T15:30:00",
+              "endsAt": "2019-04-26T16:30:00",
+              "isServiceSession": false,
+              "isPlenumSession": false,
+              "speakers": [
+                {
+                  "id": "3973e7f0-7d80-44cb-8831-b996f73f75f2",
+                  "name": "Tori Brenneison"
+                }
+              ],
+              "categories": [],
+              "roomId": 4587,
+              "room": "Yellow"
+            },
+            "index": 8
+          }
+        ]
+      },
+      {
+        "slotStart": "16:30:00",
+        "rooms": [
+          {
+            "id": 4579,
+            "name": "Concourse",
+            "session": {
+              "id": "ca0d066c-d258-4238-a027-3fe3c2469067",
+              "title": "Movie Screening: Avengers: Endgame",
+              "description": "Various theaters starting at different times after the last session.",
+              "startsAt": "2019-04-26T16:30:00",
+              "endsAt": "2019-04-26T17:30:00",
+              "isServiceSession": true,
+              "isPlenumSession": false,
+              "speakers": [],
+              "categories": [],
+              "roomId": 4579,
+              "room": "Concourse"
+            },
+            "index": 0
+          }
+        ]
+      }
+    ]
+  }
+]
